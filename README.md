@@ -17,3 +17,4 @@ Le bloc if __name__ == "__main__": permet de s'assurer que le code dans ce bloc 
 Deux points point1 et point2 sont définis comme tuples (1, 2, 3) et (4, 5, 6) respectivement.
 La distance de Chebyshev entre ces deux points est calculée en appelant la fonction chebyshev_distance avec point1 et point2 comme arguments.
 La distance calculée est ensuite affichée à l'écran avec la fonction print.
+ok 
